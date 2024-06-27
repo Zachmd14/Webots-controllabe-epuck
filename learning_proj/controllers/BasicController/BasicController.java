@@ -1,5 +1,4 @@
 import com.cyberbotics.webots.controller.Robot;
-import com.cyberbotics.webots.controller.Robot;
 
 public class BasicController {
 
